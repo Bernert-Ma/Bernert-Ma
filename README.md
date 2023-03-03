@@ -6,7 +6,7 @@ Frontend Software Engineer
 
 I'm a Frontend Software Engineer with an ambition to continue learning and exploring new technologies and features.
 
-* 🌍  I'm based in Kaprun
+* 🌍  I'm based in Austria
 * 📫  You can contact me at [martin@bernert.at](mailto:martin@bernert.at)
 * 🤝  I'm open to collaborating on Projects
 * ⚡  May the force be with you
