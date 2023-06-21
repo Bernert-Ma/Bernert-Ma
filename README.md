@@ -4,7 +4,7 @@ Hello there ![](https://user-images.githubusercontent.com/18350557/176309783-078
 Frontend Software Engineer
 --------------------------
 
-I'm a Frontend Software Engineer with an ambition to continue learning and exploring new technologies and features to become a full-stck dev.
+I'm a Frontend Software Engineer with an ambition to continue learning and exploring new technologies and features to become a full-stack dev.
 
 * 🌍  I'm based in Austria
 * 📫  You can contact me at [martin@bernert.at](mailto:martin@bernert.at)
