@@ -38,10 +38,4 @@ I'm a Frontend Software Engineer with an ambition to continue learning and explo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Bernert-Ma"><img src="https://github-readme-stats.vercel.app/api?username=Bernert-Ma&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Bernert-Ma's GitHub stats" /></a>
-
 <a href="http://www.github.com/Bernert-Ma"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bernert-Ma&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Bernert-Ma"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bernert-Ma&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Bernert-Ma" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernert-Ma&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
